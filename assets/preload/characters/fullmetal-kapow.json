@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KapowIdle"
+		},
+		{
+			"offsets": [
+				-24,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KapowUp"
+		},
+		{
+			"offsets": [
+				-34,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KapowRight"
+		},
+		{
+			"offsets": [
+				415,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KapowLeft"
+		},
+		{
+			"offsets": [
+				6,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KapowDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FMETAL-kapow",
+	"position": [
+		-200,
+		300
+	],
+	"healthicon": "kapow",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		102,
+		97
+	],
+	"camera_position": [
+		250,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

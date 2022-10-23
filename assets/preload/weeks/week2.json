@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Compass", "flippy", [146, 113, 253], "alt"],
+		["Assault", "flippy", [146, 113, 253], "alt"],
+		["Bombshell", "flippy", [146, 113, 253], "alt"]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Alternative Flippy Week",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

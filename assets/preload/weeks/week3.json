@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Slasher", "flippy", [146, 113, 253], "minus"],
+		["Cleave", "flippy", [146, 113, 253], "minus"],
+		["Disturbed", "flippy", [146, 113, 253], "minus"]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Minus Flippy Week",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

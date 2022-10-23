@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Kapow", "kapow", [146, 113, 253], "kapow"],
+		["Meltdown", "kapow", [146, 113, 253], "kapow"]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Kapow Week",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
