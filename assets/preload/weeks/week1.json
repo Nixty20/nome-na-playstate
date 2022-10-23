@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Triggered", "flippy", [146, 113, 253], "og"],
+		["Slaughter", "flippy", [146, 113, 253], "bloody"],
+		["Overkill", "flippy", [146, 113, 253], "insane"],
+		["Fallout", "flippy", [146, 113, 253], "fearful"]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Flippy Week",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"extraDiff": true
+}

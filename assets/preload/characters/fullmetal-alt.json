@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Alt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Alt Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FMETAL-alt",
+	"position": [
+		60,
+		320
+	],
+	"healthicon": "fmalt",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		190,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Shell-Shanked", "shanked", [146, 113, 253], "shanked"],
+		["Unseized", "flippy", [146, 113, 253], "og"],
+		["LSD", "flippy", [146, 113, 253], "og"]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Freeplay",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
